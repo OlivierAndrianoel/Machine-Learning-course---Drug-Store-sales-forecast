@@ -54,6 +54,6 @@ Visualization: Matplotlib (Agg backend)
 
 🎓 Authors
 This research was conducted as part of the Machine Learning course at Audencia Business School (March 2026) by:
-Olivier Andrianoel
-Wassim Belabed
+Olivier Andrianoel,
+Wassim Belabed,
 Thomas Magallon
