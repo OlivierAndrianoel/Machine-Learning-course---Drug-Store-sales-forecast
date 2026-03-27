@@ -10,13 +10,10 @@ The Core Challenge: Balancing the financial risk of stockouts during promotional
 ## 📊 Key Insights & Visualizations
 
 1. **Seasonal Demand & Peak Performance:** Our analysis confirms a significant **December peak** , with daily sales rising 30% above the October baseline. This supports the business requirement for aggressive Q4 inventory build-up.
-![Monthly Sales Trends](images/02_monthly_avg_sales.png)
 
 2. **The Power of Promotions:** Promotions are identified as the **#1 commercial lever** , driving an average 38.8% sales uplift across the chain. Store Type 2 was identified as the most responsive to promotional activity.
-![Promo Uplift Analysis](images/05_promo_avg_sales.png)
 
 3. **Feature Importance (XGBoost):** The model relies heavily on **Promotional flags** and structural store data (Competition distance, Assortment) rather than simple calendar rhythms.
-![XGBoost Feature Importance](images/11_feature_importance_top15.png)
 
 ---
 
